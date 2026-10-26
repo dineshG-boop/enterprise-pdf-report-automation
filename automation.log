@@ -1,0 +1,5 @@
+2026-10-26 12:49:08,090 - INFO - Starting sales report generation
+2026-10-26 12:49:08,090 - INFO - Loading CSV file: data/sales_data.csv
+2026-10-26 12:49:08,098 - INFO - Calculating sales summary
+2026-10-26 12:49:08,098 - INFO - Generating PDF report: reports/sales_report.pdf
+2026-10-26 12:49:08,107 - INFO - Sales report generated successfully
